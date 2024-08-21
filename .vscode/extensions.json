@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "charliermarsh.ruff",
+    "ecmel.vscode-html-css",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "ms-python.isort",
+    "KevinRose.vsc-python-indent",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "donjayamanne.python-environment-manager",
+    "tamasfe.even-better-toml"
+  ]
+}
